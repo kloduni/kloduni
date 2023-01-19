@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klod</h1>
 <h3 align="center">A passionate .NET developer from Bulgaria</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tk6szlnjessw6rqh56txjt19k5mx8z7seqkdcf89&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kloduni&label=Profile%20views&color=0e75b6&style=flat" alt="kloduni" /> </p>
 </p>
 
