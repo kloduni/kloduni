@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kloduni&label=Profile%20views&color=0e75b6&style=flat" alt="kloduni" /> </p>
 </p>
 
-- 🔭 I’m currently working on [MedShop](https://github.com/kloduni/MedShop)
-
 - 🌱 I’m currently learning **Html, CSS, JS**
 
 - 📫 How to reach me **klod.space@gmail.com**
