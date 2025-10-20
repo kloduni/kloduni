@@ -48,7 +48,7 @@
 
 ### 🚀 Featured Project
 #### [MedShop](https://github.com/kloduni/MedShop)
-🧩 A simple yet powerful **.NET-based web application** for managing a virtual medicine shop.  
+🧩 A simple **.NET-based web application** for managing a virtual medicine shop.  
 It includes:
 - ASP.NET Core backend  
 - Entity Framework for data management  
@@ -72,7 +72,7 @@ It includes:
 ---
 
 ### ⚡ Fun Fact
-When I’m not coding, I’m probably tinkering with PC hardware, playing games, going out or just existing in general.
+When I’m not coding, I’m probably tinkering with PC hardware, playing games, going out, or just breathing and staring into a point.
 
 ---
 
