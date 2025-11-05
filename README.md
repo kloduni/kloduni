@@ -66,8 +66,9 @@ It includes:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kloduni&theme=tokyonight" />
+  <img src="https://streak-stats.vercel.app/?user=kloduni&theme=tokyonight&hide_border=false" />
 </p>
+
 
 ---
 
